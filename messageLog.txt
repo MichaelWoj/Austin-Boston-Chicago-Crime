@@ -1,0 +1,362 @@
+https://databank.worldbank.org/source/world-development-indicators
+27/09/2019, 12:14
+Crime and time, crime and pollution, Formula 1, Mobile Apps, Stack overflow
+Michal changed the chat theme.Michal changed the chat theme.01/10/2019, 09:06
+are yall coming to data science today? would be nice to show greg our ideas
+01/10/2019, 12:06Michal changed the chat theme.03/10/2019, 09:21
+Yo are we gonna be able to finish the data doc
+Brendan said they sent theirs few days ago to get feedback and he said "a lot of improvements to be made"
+KEKW
+03/10/2019, 10:51
+The deadline has been moved to the 8th of October at 1 pm
+Thank god
+FeelsBadMan
+04/10/2019, 08:46
+are yall coming it today?
+we've a chance to talk to Gregory
+btw, my back looks disgusting 😑
+04/10/2019, 10:57
+https://github.com/MichaelWoj/Data-Science-Project
+LMartynas - github acc
+@Martynas Daoneandonly
+Gym TO-DO's for youngMichal today:
+Note: If weight too easy, add more (smileyface)
+Chest Day: 
+Flat Bench Press (dumbells if benches occupied) 3*12
+Incline Dumbell press: 3*12
+Flat Db press: 3*12
+Chest fly machine: 3*12
+Side raises: 3*12
+
+    Gym TO-DO's for youngMichal today:
+    Note: If weight too easy, add more (smileyface)
+    Chest Day:
+    Flat Bench Press (dumbells if benches occupied) 3*12
+    Incline Dumbell press: 3*12
+    Flat Db press: 3*12
+    Chest fly machine: 3*12
+    Side raises: 3*12
+
+Tricep pushdowns: 5*12
+07/10/2019, 15:11
+Let's try finishing that doc today?
+07/10/2019, 20:53
+We can't really use Crime prediction: https://www.tandfonline.com/doi/full/10.1080/15614263.2014.972618 as a citation source cause in order to access it you'd need to buy it for like €37
+i see
+we can prob roughly say that look 80 per cent of crime happens hear every oct last 5 yrs blah blah
+I'm doing the references right now so can't really say shit beside the references
+Also get to work @Martynas Daoneandonly🔫
+LULW
+We can abuse the "expect" word and say a bunch of shit we expect to do
+like greg said, then in final report say well actually that didnt work heres what we did
+Ye ye ye but really do you part today so I can upload it to github
+As in before 23
+07/10/2019, 23:49
+loos good
+Just gonna put it in here in case we need it for the future and resolve it on the actual document
+sorr whatdya mean?
+As in it no longer appears on the doc
+oh yep
+i wouldnt go tmrw if it wssnt foe this doc
+Did he say what format it needs to be uploaded into github ?
+sori no idea
+does it have to be?
+I think so
+i know final doc will have to inc github where we save all our stuff
+oh!
+yeah ?
+shoukd we writw github link in this doc?
+or will the notebooka be saved on jupyter
+then guthub not needed idk
+No fucking clue fam
+ah whatever
+I'll just leave it till tomorrow and ask some nerds in class cause its not due until 13
+Michal named the group Data Science Project.
+kl
+08/10/2019, 11:43
+@yall, I was able to add the google doc link to the readme on my github, 
+@Michal Wojnowski
+ thoughts?
+I mean sure but we'll still have to see what he says in class
+I mean he said that we can just email it to him
+08/10/2019, 13:18
+@Bernard Steemers
+ I've added the few sentences to the scope,@ me if you want me to change it in any way or need me to do something
+08/10/2019, 14:44
+Having trouble with the wifi again in here, what i can see looks good. Ive added a small but onto data protection if there's anything you want to edit at all
+I'll take a quick look at the changes now
+I would say we could change the heading from GDPR to just Data Protection
+My thoughts exactly
+It all looks good to me
+Unless you guys want to add or change something I would say we can send it to greg
+Think we could change the title?
+What do you want to change it to?
+Somethiny shortish and descriptive
+yeah that one looks good
+Feel free to change or play around with it
+We're both finished on our end i think
+The Mapping and Analysis of Felony Location and Time using Machine Learning?
+Or rather The Analysis and Aggregation of Felony Location and Time using Machine Learning
+Cause we're not really mapping or predicting anything
+Yeah that sounds better
+Alright done, everyone happy with what we have ?
+Yeah all good on our end
+Alright, I'll send it to Greg then
+Sent
+11/10/2019, 09:43
+https://docs.google.com/document/d/1XYZPEmBAmkELC7y2k2WWus_Hp59mTPBJB-RribR9XIk/edit?usp=sharing
+Link to the next paper we have to make for data science
+15/10/2019, 12:22
+Chicago Data Set Size: 11533657
+17/10/2019, 19:30
+Alright boys a three things, 1. 
+@Bernard Steemers
+ could you do the "Research and/or functionality specification which may include..."  as we are starting to run a bit tight on time and 2. what was architecture suppose to be and 3. don't put comments on the table of contents as they disappear after the table is updated
+Hey 
+@Michal
+, i removed my part from the google document so i could work on it without it 3 people editing at the same time
+I'll paste what i have back in when I'm finished
+Alright cool
+Architecture is a heading on the brief
+Its below objectives
+Oh yeah, so who actually was suppose to do that
+It wasnt there before so it wasnt allocated
+yikes
+I think functionality covers architecture so i think we're ok
+Alright cool, we'll just change the name to Functionality and Architecture
+What time is this due tomorrow
+Do we email it or what?
+He hasn't said, I would say assume its for 11 so we don't leave work for tomorrow only to find out we only have like 2 hours to do it all
+he hasn't said either, I'll ask him in class but my guess is email it to him and give him a physical copy for an external
+Dont forget he wants to see references and pictures in this doc
+We have references from the previous document but I really have no idea what to put down for pictures
+@Bernard Steemers
+ 
+@Michal Wojnowski
+ are we okay right now? can i go sleep
+Nah I don't allow you to ever go to sleep again
+I concur
+jsut gave me and idea for potential probs/issues - teammates prohibiting other team8s from sleeping
+But nah I think we should be good for today
+kk
+im so pissed left my one of my straps in gym
+so retarded they were literally on my wrists in locker room how the fck do i not put one in the bag
+every time i tlak to some1 I zone out completely
+rip
+second time i forget them, last time they were gone had to buy new ones
+absolute dumbfuck
+Just remember we're gonna have to print out the chat logs and put them in the final report :v
+alrgiht alrgiht
+18/10/2019, 08:47
+Guys im running late ill be in for half 9
+Alright no worries
+18/10/2019, 13:03
+need to improve referencing at some point; either [number] or quotes format
+We dont have quotes
+this is a peace of text ("ref goes here") I think thats how holly did it
+@Martynas Daoneandonly I'm gonna head to the gym now, once you're done we'll just do a full overview of the document to see if everyone is happy
+agreed 
+@Michal Wojnowski
+, let me know when you're back. I'm on top floor of library.
+"Data is the sword of the 21st century, those who wield it well, the Samurai." - 
+@Bernard Steemers
+Inspirational
+I feel so inspired that I could do anything rn
+[SUGGESTION] - add more images, graphs, pictures etc.
+Do we have any images ?
+a few, could add more
+I haven't seen it so I'll default to your judgement
+@bernardo we out btw, cya monday - squad signing off
+18/10/2019, 17:03
+Everyone happy with the specification ?
+ill be adding  info latr on
+Alright
+@Martynas Daoneandonly will you put your most recent writings under its own headings? It just looks a little disjointed
+ok
+Thank ya kindly
+Let me know when you do so I can edit the introduction
+18/10/2019, 21:34
+@Martynas Daoneandonly How are you edits going ?
+awesome Michal im glad you asked!
+yourself?
+You done :v
+i will replace the pre processing and alg bits with the new text, thoughts?
+Gotta submit it before 12
+Thanks for the reminder Bernard, appreciate it!
+I'm good with it what's there
+Alright, then I will proceed with replacement. I will attempt to fix referencing. Thanks for your patience guys!
+I will also mention frontend technologies to be used very quickly. I am looking forward to it!
+I rathee you didnt replace everything i wrote
+If thats ok?
+No problem you're right! I will remove the extra stuff, I was trying to add more detail having both doesn't make sense.
+I don thnk theres any need to remove anything
+Its all relevent material
+Thoughts?
+The bits I wrote earlier are saying what you got but more detail, having both is just saying same thing again.
+Yeah I think its good, think just need to add references if we have any
+I think both can exist independently under different headings.
+Michael your vote is the decider,what do you think?
+I'll have a quick reread over it and it'll tell you
+I would say it looks pretty good as it is but the new references need to be fixed
+An hour and a half to go lads. Can i send this onto him?
+1 sec
+Yeah I'm good to go whenever Martynas finishes his thing
+If you want to go to sleep or have something to do I'll send it on
+im done
+Grand
+Ill send it now
+Ill also upload it to github
+Alright cool
+Good job bois
+Thats done
+Ill print a hard copy on tuesday
+22/10/2019, 12:31
+Design around the machine learning
+kk
+Holly asked him what the new topic is suppose to be and its what he said
+gotcha
+Full design of the application, describe in detail what you'll do with the data,  based on the detail a random person should be able to implement it
+24/10/2019, 21:27
+You bois coming in tomorrow ?
+25/10/2019, 07:51
+ya yaya
+yayayaya yaya ya
+I'm in office yall, will be going to Greg's
+25/10/2019, 11:02
+notebook editor that can handle data sets(7mill rows)
+import manager tool to take data set
+pre-processing libraries/frameworks for filtering data
+appropriate algorithm types for processing specific data types
+how going to display findings
+website technologies
+technologies must be open source
+Pros and cons of each technology
+https://www.dataschool.io/cloud-services-for-jupyter-notebook/
+05/11/2019, 13:15
+Might be useful:
+06/11/2019, 10:21
+"Hi Bernard,
+I can meet your group at 2pm in Room C202 if you wish.
+Regards,
+Greg"
+Does this suit ye?
+I have a meeting with Paul at 2.20
+Yeah should be fine
+At least for me, Martynas says he has a meeting with Chris at 2
+Ok what will i say to him it doesnt work? We can run it by him Friday?
+I would say let's do the meeting and just get things off Martynas he wants to know and ask him. There's no point in wasting this Thursday
+Right
+Quick 5 minute meeting
+Ill let him know
+06/11/2019, 13:56
+@Bernard Steemers
+ you coming ?
+" I'll try to import the datasets and do some shit with that, maybe that'll give us somethings to talk about " - Martynas 2019
+06/11/2019, 16:15
+Jupyter notebook
+Pandas
+Numpy
+K-means
+Jupyter Notebook, Panda, Numpy, Plotly
+K-clustering
+PostgreSQL
+Sklearn
+Anaconda
+07/11/2019, 18:00
+Right lads imma write up about jupyter notebook, ill probably keep it in a seperate document and add it to the google shared file after
+Alright cool, I'm probably gonna do Numpy
+Riteo see ye in the morning
+08/11/2019, 10:52
+me write on pandas
+You write pandas good marty
+Did ye speak with greg lads?
+I spoke to him for a moment just to check if what I was writing was right and he said it was fine just needed to add a few things like what is data pre processing, what is it in the context of the project and what were the options cause I talked about what we chose, why we chose it and it's features in what I already wrote
+Alright cool sounds good,ive my paragraph done but there's some tips in there that i might use to add extra content. Anything other news or decisions ye decided on with proj today?
+Nah nothing really new, everything has been pretty much set
+Alright cool ill add my para into the google doc later, then maybe we'll devide up the remaining technologies? What are yer thoughts on headings apart from technologies?
+We should probably add a plan of how we'll develop yet but I'm not quite sure how
+How would ye feel about each having a go at import a data set each into jupyter notebook?
+Importing*
+I mean it sounds like effort but we should probably try it
+Ahahaha my thoughts exactly:P
+@Martynas Daoneandonly thoughts?
+Right now his thoughts are on the squat rack
+Ah ok
+Are ye both in the gym?
+Yeah, I'm replying in between sets
+So this is your thumb workout:P
+Sure we'll see how the weekend goes anyway, message the group if either of ye have any ideas on other headings
+Yeah, over the weekend I'll probably work mostly on my project cause I have my meetings with Joe on Tuesdays so have to have something to show him
+Yeah same as for me really, see how the weekend goes sure!
+Should be grand anyway
+12/11/2019, 09:02
+You bois coming today ?
+me no
+I'm doing Plotly
+12/11/2019, 12:11
+K-Means, K-clustering, SKLearn, Anaconda are left to do
+Ill do sklearn
+13/11/2019, 10:07
+Brendans group have use case diagrams, sequence diagrams etc done
+greg was heavily in favour of having them
+this doc apparently is like a guideline for a random to be able to replicate the product we're doing
+ill have try at few diagrams should take few mins
+19/11/2019, 12:36
+Presentation slide ideas:
+1. Intro (project topic, why is the topic worth researching?)
+2. Data set sources / sizes / why these specificaly?
+3. Technologies (Python, Anaconda etc.)
+4. Proposed website (what will it include?)
+5. Current phase
+6. What's working / what's not, what changes had to be made
+Gregs notes: Proposal,design,specification, 3mins each(10mins for group) we must work on Machine Learning techniques.
+03/12/2019, 09:09
+whos covering tech in presentation?
+Ill do it
+which ones?
+All of them
+3 Jan 2020, 21:18
+Alright bois, so I found out we can't use Python 3.8 cause it breaks Jupyter Notebook on Windows
+👍1
+10 Jan 2020, 09:32
+Crime.ipynb
+14 Jan 2020, 12:20
+https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system/resource/12cb3883-56f5-47de-afa5-3b1cf61b257b
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+31 Jan 2020, 10:59
+Looks like location variable isnt suited for kmeans and will have to be dropped
+there is DBSCAN ml algorithm suited for location, might be worth trying
+Tues 14:07
+Boston Crime.ipynb
+Wed 16:49
+https://www.youtube.com/watch?v=8p6XaQSIFpY
+Wed 18:33
+https://www.youtube.com/watch?v=j6jstahQp2A&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=36
+Thurs 09:37
+Whats both your plan today
+@Martynas Daoneandonly
+@Michal Wojnowski
+I'm applying KMeans to the dataset. Finally got it properly preprocessed yesterday after the battle with the DISTRICT column
+The first tutorial I sent saved my ass when it came to it so if anyone has problems with non-numeric data take a look or let me know and I'll give you the code
+Thurs 11:58
+Any progress bois ?
+not yet
+Thurs 13:13
+How're you getting on 
+@Michal Wojnowski
+ ?
+I'm stuck on visualizing the clusters in plotly
+Is it a big issue? Whatre you trying to plot?
+I wouldn't say big but just annoying cause I just can't find how to do it properly
+I've run the data through k-means and divided it into 4 clusters, now i'm just stuck on actually displaying the clusters
+Thats not a huge issue then if the results are there.
+@Martynas Daoneandonly what're you working on currently?
+chicago.ipynb
+Thurs 14:43
+linear regression atm
+10:55
+Boston Crime - KMeans.ipynb
+12:36
+Boston Crime - KMeans Final .ipynb
+14:38
+chicagoLR.ipynb
